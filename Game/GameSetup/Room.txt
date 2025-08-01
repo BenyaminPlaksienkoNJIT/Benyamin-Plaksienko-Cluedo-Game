@@ -1,0 +1,9 @@
+Hall
+Lounge
+Dining Room
+Kitchen
+Ballroom
+Conservatory
+Billiard Room
+Library
+Study

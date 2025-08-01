@@ -1,0 +1,60 @@
+{
+  "Hall": {
+    "Conservatory": 0,
+    "Lounge": 1,
+    "Dining Room": 7,
+    "Kitchen": 8,
+    "Ballroom": 0,
+    "Billiard Room": 8
+  },
+  "Lounge": {
+    "Conservatory": 6,
+    "Hall": 1,
+    "Library": 0,
+    "Ballroom": 6
+  },
+  "Dining Room": {
+    "Kitchen": 2,
+    "Hall": 7,
+    "Conservatory": 5,
+    "Billiard Room": 9
+  },
+  "Kitchen": {
+    "Dining Room": 2,
+    "Hall": 8,
+    "Conservatory": 7,
+    "Study": 5
+  },
+  "Ballroom": {
+    "Lounge": 6,
+    "Hall": 0,
+    "Library": 9,
+    "Study": 3
+  },
+  "Conservatory": {
+    "Hall": 0,
+    "Lounge": 6,
+    "Kitchen": 7,
+    "Dining Room": 5,
+    "Billiard Room": 6,
+    "Study": 2
+  },
+  "Billiard Room": {
+    "Hall": 8,
+    "Library": 0,
+    "Dining Room": 9,
+    "Conservatory": 6
+  },
+  "Library": {
+    "Lounge": 0,
+    "Billiard Room": 0,
+    "Ballroom": 9,
+    "Study": 1
+  },
+  "Study": {
+    "Library": 1,
+    "Ballroom": 3,
+    "Conservatory": 2,
+    "Kitchen": 5
+  }
+}

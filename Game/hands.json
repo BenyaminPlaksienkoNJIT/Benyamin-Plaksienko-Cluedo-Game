@@ -1,0 +1,26 @@
+{
+  "Professor Plum": [
+    "Ballroom",
+    "Conservatory",
+    "Lounge",
+    "Revolver",
+    "Rope",
+    "Study"
+  ],
+  "Colonel Mustard": [
+    "Candlestick",
+    "Dining Room",
+    "Kitchen",
+    "Knife",
+    "Mrs. Peacock",
+    "Mrs. White"
+  ],
+  "Mrs. Peacock": [
+    "Billiard Room",
+    "Colonel Mustard",
+    "Library",
+    "Mr. Green",
+    "Professor Plum",
+    "Wrench"
+  ]
+}

@@ -1,4 +1,4 @@
-# Benyamin Plaksienko – Project 2 Part 1: Cluedo Game
+# Benyamin Plaksienko – Project 2 Part 2: Cluedo Game with Ai implemented
 
 ## Overview
 
@@ -32,7 +32,13 @@ Key features:
 - **Game End**  
   - Game ends when a player makes a correct accusation.  
   - Final solution is revealed.
-
+- **Ai Implementation**  
+  - Select how many AI players
+  - The AI maintains probabilities for each suspect, weapon, and room to represent belief in the solution.
+  - It updates these probabilities based on shown cards and unrefuted suggestions.
+  - The AI selects moves and suggestions to maximize information gain and reduce uncertainty.
+  - It only makes an accusation when confident (over 80% probability) about the solution
+  
 ---
 ## Running the Game
 
@@ -49,3 +55,4 @@ python game.py
 This project was developed using **Python 3.11** within a **PyCharm** virtual environment. PyCharm's built-in virtual environment feature was used to manage dependencies and isolate the project environment.
 
 If you use PyCharm, the IDE will automatically create and configure a virtual environment for this project. You can run the game and manage packages within PyCharm’s integrated terminal or Python console.
+# Benyamin-Plaksienko-Project-2-Part-2-Cluedo-Game-with-Ai-implemented

@@ -1,4 +1,4 @@
-# Benyamin Plaksienko – Project 2 Part 1: Cluedo Game
+# Benyamin Plaksienko –  Cluedo Game
 
 ## Overview
 
